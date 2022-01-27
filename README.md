@@ -1,2 +1,4 @@
 # revert-reset-practice
-Git動画講座revert reset
+
+Git 動画講座 revert reset  
+また間違えた変更
